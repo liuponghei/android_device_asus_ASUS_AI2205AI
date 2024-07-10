@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "asus/ASUS_AI2205/-/tree",
+    "target_path": "device/asus/ASUS_AI2205"
+  },
+  {
+    "repository": "android_kernel_prebuilts_5.15_arm64",
+    "target_path": "kernel/prebuilts/5.15/arm64"
+  }
+]
+
